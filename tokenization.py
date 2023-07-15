@@ -13,8 +13,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License. 
 
-global false,null,true
-false=False
+global False,null,true
+False=False
 null=''
 true=True
 
